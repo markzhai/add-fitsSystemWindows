@@ -16,8 +16,8 @@ how to
 -----
 
 Just put the python file at your android project's root directory, and run it.
-
 It will ignore generated and hidden directories, so don't worry about that.
+To re-format all layouts again, you can use the nice feature of android studio (reformat code on the whole layout folder).
 
 customization
 -----
