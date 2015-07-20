@@ -1,7 +1,11 @@
 Add fitsSystemWindows in one-step
 =================================
 
-[SystemBarTint](https://github.com/jgilfelt/SystemBarTint) is a magnificent project that can easily enable translucent mode of our apps. However, as my own experience on two old projects(started 3-4 years ago), add fitsSystemWindows is a hard-job, as we may have hundreds of thousands of layout files, some maybe useful, some are already outdated. To add the attribute manually made man crazy, so I created this project to make this process automatically.
+[SystemBarTint](https://github.com/jgilfelt/SystemBarTint) is a magnificent project that can easily enable translucent mode of our apps.
+
+However, as my own experience on two old projects(started 3-4 years ago), add fitsSystemWindows is a hard-job, as we may have hundreds of thousands of layout files, some maybe useful, some are already outdated.
+
+Add the attribute manually is meaningless and time-consuming, so I created this project to make this process automatically.
 
 Usage
 -----
