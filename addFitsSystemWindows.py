@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 import os
 
+# change it to your own encoding
 dirDecodeEncoding = "gbk";
  
 def GetFileList(dir, fileList):
