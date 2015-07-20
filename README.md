@@ -6,7 +6,7 @@ Add fitsSystemWindows in one-step
 Usage
 -----
 
-add fitsSystemWindows to all layout files (use if to add Translucent Status Bar support easily).
+Add fitsSystemWindows to all layout files, painlessly!
 
 how to
 -----
